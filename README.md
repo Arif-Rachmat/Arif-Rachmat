@@ -6,7 +6,6 @@
 
 **Physics Student @ University of Indonesia** | **Embedded Systems & AI Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-rachmat/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arif-Rachmat&color=blueviolet&style=flat-square)](https://github.com/Arif-Rachmat)
 [![GitHub followers](https://img.shields.io/github/followers/Arif-Rachmat?style=flat-square&color=blue)](https://github.com/Arif-Rachmat)
 
