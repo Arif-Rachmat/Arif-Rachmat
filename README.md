@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Arif Rachmat 👋
-
 ![Profile Banner](/resource/Banner.gif)
 
 **Physics Student @ University of Indonesia** | **Embedded Systems & AI Enthusiast**
