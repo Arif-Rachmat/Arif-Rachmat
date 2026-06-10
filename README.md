@@ -4,7 +4,6 @@
 
 **Physics Student @ University of Indonesia** | **Embedded Systems & AI Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-rachmat/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arif-Rachmat&color=blueviolet&style=flat-square)](https://github.com/Arif-Rachmat)
 [![GitHub followers](https://img.shields.io/github/followers/Arif-Rachmat?style=flat-square&color=blue)](https://github.com/Arif-Rachmat)
 
@@ -91,11 +90,11 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 <a href="https://github.com/Arif-Rachmat">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-<a href="mailto:m.arif.rchmt@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
 <a href="mailto:m.arif.rchmt@gmail.com?subject=Project%20Inquiry%3A%20%5BProject%20Name%20or%20Type%5D&body=Hi%20Arif%2C%0A%0AI%20have%20an%20upcoming%20project%20involving%20%5BProject%20Type%5D%20and%20think%20your%20skills%20would%20be%20a%20perfect%20fit.%20Here%20are%20a%20few%20quick%20details%3A%0A%0AEstimated%20Timeline%3A%20%5Be.g.%2C%20Next%20month%5D%0A%0AGeneral%20Budget%2FScope%3A%20%5Be.g.%2C%20Fixed%2FHourly%5D%0A%0ALooking%20forward%20to%20hearing%20your%20thoughts!%0A%0AThanks%2C%0A%5BYour%20Name%5D">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Mailto" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Instagram Mailto" />
+</a>
+<a href="https://www.instagram.com/arif_rchmt_">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Gmail" />
 </a>
 
 ---
