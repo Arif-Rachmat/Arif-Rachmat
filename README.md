@@ -4,8 +4,7 @@
 
 **Physics Student @ University of Indonesia** | **Embedded Systems & AI Enthusiast**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Arif-Rachmat&color=blueviolet&style=flat-square)](https://github.com/Arif-Rachmat)
-[![GitHub followers](https://img.shields.io/github/followers/Arif-Rachmat?style=flat-square&color=blue)](https://github.com/Arif-Rachmat)
+<img src="profile-header.svg" align="center" width="350" alt="Profile Metrics" />
 
 ---
 
@@ -60,15 +59,19 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 ---
 
 ## 📊 GitHub Statistics 📊
+<img src="metrics-languages.svg" align="center" width="350" alt="Languages Split" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arif-Rachmat&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-Rachmat&layout=compact&theme=radical&hide_border=true)
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="isocalendar.svg" align="left" alt="Isocalendar" />
+<img src="habits.svg" align="right" alt="Habits Metric" />
+</div>
 
 ---
 
 ## 🏆 Achievements & Streak 🏆
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arif-Rachmat&theme=radical&hide_border=true)
+<img src="metrics-achievements.svg" align="center" width="350" alt="Achievements" />
 
 ---
 
