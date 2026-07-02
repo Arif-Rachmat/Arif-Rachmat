@@ -4,15 +4,13 @@
 
 **Physics Student @ University of Indonesia** | **Embedded Systems & AI Enthusiast**
 
-<img src="profile-header.svg" align="center" width="350" alt="Profile Metrics" />
+<img src="https://gist.githubusercontent.com/Arif-Rachmat/5f2d3a28c824e7549c03d60adf0c7668/raw/profile-header.svg" align="center" width="450" alt="Profile Metrics" />
 
----
 
 ## 🔬 About Me 🔬
 
 Instrumentation Physics student passionate about **embedded systems**, **analog circuit design**, and **AI engineering**. I love building hardware that senses the physical world and AI that learns from it.
 
----
 
 ## 🛠️ Tech Stack 🛠️
 
@@ -39,7 +37,6 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 ![Inventor](https://img.shields.io/badge/Inventor-yellow?style=flat-square&logo=autodesk)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-orange?style=flat-square&logo=labview)
 
----
 
 ## 💡 Core Skills 💡
 
@@ -50,30 +47,26 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 | Low-Level Optimization 	|    Noise reduction    	|   Neural Networks  	| Measurement systems 	|
 |   IoT & Edge devices   	|   Power Optimization  	|   Functional API   	|   Control Systems   	|
 
----
 
 ## 🔍 Interests 🔍
 
 🔧 **Embedded Systems** • ⚡ **Systems Programming** • 🔌 **Analog Circuit Design** • 🤖 **AI/ML** • 📡 **IoT** • 🧠 **Edge AI** • 📊 **Signal Processing**
 
----
 
 ## 📊 GitHub Statistics 📊
-<img src="metrics-languages.svg" align="center" width="350" alt="Languages Split" />
+![Language Metrics](https://gist.githubusercontent.com/Arif-Rachmat/5f2d3a28c824e7549c03d60adf0c7668/raw/metrics-languages.svg)
 
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="isocalendar.svg" align="left" alt="Isocalendar" />
-<img src="habits.svg" align="right" alt="Habits Metric" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 5px; width: 100%;">
+  <img src="https://gist.githubusercontent.com/Arif-Rachmat/5f2d3a28c824e7549c03d60adf0c7668/raw/isocalendar.svg" alt="Isocalendar" style="flex: 1 1 300px; max-width: 100%;" />
+  <img src="https://gist.githubusercontent.com/Arif-Rachmat/5f2d3a28c824e7549c03d60adf0c7668/raw/habits.svg" alt="Habits Metric" style="flex: 1 1 300px; max-width: 100%;" />
 </div>
 
----
 
 ## 🏆 Achievements & Streak 🏆
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arif-Rachmat&theme=radical&hide_border=true)
-<img src="metrics-achievements.svg" align="center" width="350" alt="Achievements" />
+![Achievements](https://gist.githubusercontent.com/Arif-Rachmat/5f2d3a28c824e7549c03d60adf0c7668/raw/metrics-achievements.svg)
 
----
 
 ## 📚 Currently Learning 📚
 
@@ -83,7 +76,6 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 🚀 Edge AI & Model Deployment
 📡 Real-time Signal Processing
 
----
 
 ## 🤝 Connect With Me 🤝
 
