@@ -28,7 +28,7 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="AI/ML" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,linux,arch,vscode,vim,matlab,blender" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,linux,arch,vscode,vim,cmake,matlab,blender" alt="Tools" />
 
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-grey?style=flat-square&logo=platformio)
 ![SPICE](https://img.shields.io/badge/SPICE-brightgreen?style=flat-square&logo=ltspice)
@@ -36,17 +36,6 @@ Instrumentation Physics student passionate about **embedded systems**, **analog 
 
 ![Inventor](https://img.shields.io/badge/Inventor-yellow?style=flat-square&logo=autodesk)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-orange?style=flat-square&logo=labview)
-
-
-## 💡 Core Skills 💡
-
-|  **Embedded Systems**  	|  **Analog Circuits**  	| **AI Engineering** 	| **Instrumentation** 	|
-|:----------------------:	|:---------------------:	|:------------------:	|:-------------------:	|
-|  Firmware development  	| Precision Measurement 	|  TensorFlow/Keras  	|    Sensor design    	|
-|    Real-time systems   	|       PCB design      	|    Deep-Learning   	|   Data acquisition  	|
-| Low-Level Optimization 	|    Noise reduction    	|   Neural Networks  	| Measurement systems 	|
-|   IoT & Edge devices   	|   Power Optimization  	|   Functional API   	|   Control Systems   	|
-
 
 ## 🔍 Interests 🔍
 
